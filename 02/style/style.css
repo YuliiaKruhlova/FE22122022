@@ -1,0 +1,25 @@
+h1 {
+    color: #660033;    ;
+    font-size: 30px;
+}
+a[href^="https"] {
+    color: rgb(133, 22, 155)
+}
+div {
+    width: 300px;
+    margin: 40px auto;
+    border: 1px solid black;
+    padding: 20px 30px;
+}
+.green-text {
+    color: rgb(0, 141, 0);
+    font-size: 20 px;
+}
+.red-text {
+    color: rgb(221, 0, 0);
+    font-size: 20 px;
+}
+.blue-text {
+    color: rgb(3, 3, 233);
+    font-size: 20 px;
+}
